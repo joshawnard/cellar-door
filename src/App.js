@@ -5,8 +5,6 @@ import GenerateWordsFromPhoneNumber from './GenerateWordsFromPhoneNumber';
 
 import './App.css';
 
-debugger;
-
 // TODO: import dictionary file as array
 // const dictionaryWords = fs.readFile('./sample_dictionary.txt').toString().split("\n");
 const dictionaryWords = [];
